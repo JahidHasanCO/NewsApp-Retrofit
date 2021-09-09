@@ -73,7 +73,9 @@
                         android:gravity="center"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
+                        android:textColor="@color/mainText"
                         android:text="Author"
+                        android:maxEms="12"
                         android:textSize="15sp"
                         android:fontFamily="@font/roboto"
                         />
@@ -101,6 +103,7 @@
                         android:gravity="center"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
+                        android:textColor="@color/mainText"
                         android:text="10 Jan, 2021"
                         android:textSize="15sp"
                         android:fontFamily="@font/roboto"

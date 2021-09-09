@@ -43,7 +43,7 @@
             android:textColor="@color/mainText"
             android:fontFamily="@font/roboto_medium"
             android:layout_marginTop="10dp"
-            android:textSize="20sp"
+            android:textSize="18sp"
             />
 
         <LinearLayout

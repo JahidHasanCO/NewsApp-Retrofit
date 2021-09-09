@@ -58,7 +58,7 @@
                 android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_marginEnd="10dp"
-                android:padding="10dp"
+                android:padding="12dp"
                 android:src="@drawable/ic_search"
                 app:tint="@color/mainText" />
 
@@ -80,7 +80,7 @@
                 android:fontFamily="@font/roboto_medium"
                 android:text="Breaking News"
                 android:textColor="@color/mainText"
-                android:textSize="25sp" />
+                android:textSize="22sp" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/headlineRecView"
@@ -108,7 +108,7 @@
                 android:fontFamily="@font/roboto_medium"
                 android:text="All News"
                 android:textColor="@color/mainText"
-                android:textSize="25sp" />
+                android:textSize="22sp" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/allNewsRecView"
