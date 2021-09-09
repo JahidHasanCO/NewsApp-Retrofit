@@ -16,6 +16,9 @@ interface NewsInterface {
     @GET("v2/top-headlines?apiKey=$API_KEY")
     fun getHeadLines(@Query("country") country: String,@Query("page") page : Int) : Call<News>
 
+    @GET("v2/everything?apiKey=$API_KEY")
+    fun getAllNews(@Query("q") q: String,@Query("page") page : Int) : Call<News>
+
 }
 
 object NewsService{
