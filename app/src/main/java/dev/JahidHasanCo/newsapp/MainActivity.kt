@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         getHeadLines()
     }
 
+
     private fun getHeadLines() {
         val news = NewsService.newsInstance.getHeadLines("in", 1)
         news.enqueue(object : Callback<News> {
