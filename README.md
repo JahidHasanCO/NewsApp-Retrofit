@@ -25,7 +25,7 @@ This is a well-maintained API which returns information in a JSON format.
 ```
 MIT License
 
-Copyright (c) 2018 Soojeong Shin
+Copyright (c) 2021 Md. Zahidul Islam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
