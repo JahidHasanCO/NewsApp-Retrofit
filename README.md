@@ -1,3 +1,5 @@
+![GitHub Cards Preview](https://github.com/JahidHasanCO/NewsApp-Retrofit/blob/master/ART/cover.png)
+
 # NewsApp-Retrofit
 
 Project as a part of Android Basics Nanodegree at Udacity
